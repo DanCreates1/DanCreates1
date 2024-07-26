@@ -35,6 +35,12 @@ jobs:
       # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
 
+      # Debug step to show the remote URL and user config
+      - name: Debug git config
+        run: |
+          git remote -v
+          git config --list
+
       # Push the changes
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
