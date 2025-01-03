@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **My Backend and frontend skills**
  
- 🌱 I’m currently learning **Django, Pandas, tailwind**
+ 🌱 I’m currently learning **React.js**
 
 💬 Ask me about **Python, Html, Css... or anything [here](mailto:mr.engine1234@gmail.com)**
 
