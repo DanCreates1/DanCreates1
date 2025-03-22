@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dan!;" />
 </h1>
 
-<h3 align="center">A fullstack developer from Canada 🇨🇦</h3>
+<h3 align="center">A Front-End Developer From Canada 🇨🇦</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **My Backend and frontend skills**
+ 🔭 I’m currently working on **My frontend skills**
  
  🌱 I’m currently learning **React.js**
 
-💬 Ask me about **Python, Html, Css... or anything [here](mailto:mr.engine1234@gmail.com)**
+💬 Ask me about **JavaScript, Html, Css... or anything [here](mailto:dancreates2@gmail.com)**
 
 ⚡ Fun fact **I make non-Ai  home made  websites**
 
