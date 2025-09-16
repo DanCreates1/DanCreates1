@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **My frontend skills**
  
- 🌱 I’m currently learning **React.js**
+ 🌱 I’m currently learning **Computer Architecture**
 
 💬 Ask me about **JavaScript, Html, Css... or anything [here](mailto:dancreates2@gmail.com)**
 
