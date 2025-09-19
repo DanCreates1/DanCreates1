@@ -21,9 +21,14 @@
  </div>
  <div align="center"> 
   
-  <a href="https://dan-creates.vercel.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+<a href="https://dan-creates.vercel.app" target="_blank" rel="noopener noreferrer"
+   style="display:inline-block; padding:10px 18px; border-radius:8px; 
+          background:transparent; border:1px solid #3CDCFF; 
+          color:#3CDCFF; font-weight:600; letter-spacing:1px; 
+          text-decoration:none; transition:all 0.2s ease;">
+  { PORTFOLIO }
+</a>
+
 </div>
 <hr/>
  
