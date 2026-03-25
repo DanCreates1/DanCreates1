@@ -12,7 +12,7 @@
  
 🔭 I’m currently **Gridning AI**
  
-🌱 Learning Computer Architecture & **Machine Learning basics**
+🌱 Learning Computer Architecture & **Machine Learning**
 
 🤖 Working with AI tools and **LLMs**
 
