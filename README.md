@@ -10,13 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **My frontend skills**
+🔭 I’m currently **Gridning AI**
  
- 🌱 I’m currently learning **Computer Architecture**
+🌱 Learning Computer Architecture & **Machine Learning basics**
 
-💬 Ask me about **JavaScript, Html, Css... or anything [here](mailto:dancreates2@gmail.com)**
-
-⚡ Fun fact **I make non-Ai  home made  websites**
+🤖 Working with AI tools and **LLMs**
 
  </div>
  <div align="center"> 
